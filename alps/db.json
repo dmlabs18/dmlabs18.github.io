@@ -1,0 +1,34 @@
+{
+  "lastUpdate": {
+    "date": "17.08.2018",
+    "time": "10:58:02"
+  },
+  "users": [
+    {
+      "date": "17.08.2018",
+      "time": "10:58:02",
+      "name": "Daenerys Targaryen",
+      "email": "dragon@targaryen.dg",
+      "phone": "(089)123-45-67",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "date": "16.08.2018",
+      "time": "0:34:05",
+      "name": "John",
+      "email": "john@winter.fell",
+      "body": "Thanks a lot!",
+      "id": 1
+    },
+    {
+      "date": "16.08.2018",
+      "time": "0:35:14",
+      "name": "Sansa",
+      "email": "sansa@winter.fell",
+      "body": "Brilliant tour!",
+      "id": 2
+    }
+  ]
+}
